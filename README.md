@@ -18,11 +18,11 @@ The result is a list:
 
 ```
 ['The proof is trivial! Just biject it to a',
- 'structure-preserving',
- 'Lie algebra',
+ 'combinatorial',
+ 'field',
  'whose elements are',
- 'prime',
- 'sigma-algebras']
+ 'associative',
+ 'linear transformations']
 ```
 
 You can then process the list to make a single string or leave as is:
