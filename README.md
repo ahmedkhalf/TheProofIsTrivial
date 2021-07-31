@@ -3,6 +3,12 @@
 Python port of the javascript based website
 [TheProofIsTrivial](http://www.theproofistrivial.com/).
 
+## Installation
+
+```bash
+pip install theproofistrivial
+```
+
 ## Usage
 
 ### Python Library
